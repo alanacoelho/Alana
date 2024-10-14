@@ -1,0 +1,43 @@
+body{ 
+    margin: 0;
+    background-color: black;
+    height: 100vh;
+    
+
+}
+p{
+    color:white;
+    font-size: large;
+    font-weight: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: center; /* Centraliza horizontalmente */
+}
+h1{
+    color: lightblue;
+    font-size: 100;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: center; /* Centraliza horizontalmente */
+    
+    
+}
+h2{color: lightblue;
+    font-size: 100;
+    font-weight: normal;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: center; /* Centraliza horizontalmente */
+
+}
+img{ 
+    margin: 0; /* Remove margens padrão */
+    display: block; /* Torna a imagem um elemento de bloco */
+    margin: 0 auto; /* Aplica margens automáticas à esquerda e à direita */}
